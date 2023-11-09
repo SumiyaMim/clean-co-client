@@ -1,4 +1,4 @@
-# My Project Description
+# My Project Features
 
 - User Registration
 - View Services
